@@ -1,0 +1,6 @@
+/mnt/hdd/university/lw4/lw4/bin/Debug/lw4.exe
+/mnt/hdd/university/lw4/lw4/bin/Debug/lw4.pdb
+/mnt/hdd/university/lw4/lw4/obj/Debug/lw4.csproj.AssemblyReference.cache
+/mnt/hdd/university/lw4/lw4/obj/Debug/lw4.csproj.CoreCompileInputs.cache
+/mnt/hdd/university/lw4/lw4/obj/Debug/lw4.exe
+/mnt/hdd/university/lw4/lw4/obj/Debug/lw4.pdb
